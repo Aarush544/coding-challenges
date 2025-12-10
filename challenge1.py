@@ -1,0 +1,1 @@
+print(abs(24-int(input("Enter how many hours Denise has worked: "))))
